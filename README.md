@@ -8,3 +8,5 @@
 5. Наслаждаемся
 
 Если у Вас линукс, то в streamer.js ./ffmpeg.exe поменяйте на ffmpeg
+[![](https://img.youtube.com/vi/YVjFGdxmPRY/0.jpg)](https://www.youtube.com/watch?v=YVjFGdxmPRY "Запускаю стрим на ютуб с помощью NodeJS и Canvas! [#изикод​]
+")
